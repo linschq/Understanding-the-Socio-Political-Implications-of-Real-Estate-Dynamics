@@ -1,1 +1,4 @@
-# Understanding-the-Socio-Political-Implications-of-Real-Estate-Dynamics
+# Understanding the Socio Political Implications of Real Estate Dynamics
+Real estate dynamics play a pivotal role in shaping the socio-political landscape of communities, influencing everything from neighborhood vibes to civic conditions. In this case study, I delve into cityscape of Ames, Iowa, seeking to unravel the intricate interplay between real estate nuances and socio-political implications. As houses become more than just bricks and mortar, understanding how factors like neighborhood, condition, and time impact sale prices opens a window into new insights. Tis investigation aims to paint a vivid picture of the real estate tapestry that shapes Ames, providing valuable insights into the socio-political factors of this community.
+
+Dataset from https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
